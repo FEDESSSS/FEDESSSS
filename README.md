@@ -15,7 +15,7 @@
 <div align="center">
   <img src="https://media.tenor.com/N5V9Ab85JGwAAAAi/unknown-window.gif" width="600" height="300"/>
 </div>
-### :woman_technologist: About Me :I am a beginner backend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### :woman_technologist: About Me : I am a beginner backend developer 
 
 - :telescope: I'm a senior college student majoring in Information Systems and Programming.
 
