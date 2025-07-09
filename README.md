@@ -22,6 +22,10 @@
 - :seedling: I'm learning programming and am very interested in it.
 
 - :zap: In my free time, I solve LeetCode problems and read books.
+  
+---
+
+### :hammer_and_wrench: Languages and Tools :
 
 
 
