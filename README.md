@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://tenor.com/c7IyWjJnRpg.gif" width="100"/>
+  <img src="https://media.tenor.com/InvGTXnS4PwAAAAj/gengar-gen-2.gif" width="100"/>
 </div>
 <div id="badges">
   <a href="https://vk.com/rogozhkin_f">
