@@ -17,7 +17,6 @@
 </div>
 ### :woman_technologist: About Me :
 I am a beginner backend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-
 - :telescope: I'm a senior college student majoring in Information Systems and Programming.
 
 - :seedling: I'm learning programming and am very interested in it.
